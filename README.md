@@ -32,3 +32,5 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más 
 👨‍💻 Autor
 
 Desarrollado por Albeiro Baena como práctica de consumo de APIs, manejo de excepciones y estructuras de control en Java para Alura Latam.
+
+-Nota: Agregar el archivo jar de gson al proyecto para el funcionamiento del programa
